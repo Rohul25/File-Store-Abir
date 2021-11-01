@@ -30,7 +30,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @ToRoBots
 
 👥 **Support Group:** [TO RᴏBᴏᴛs](https://t.me/ToRoBots)
 
@@ -39,12 +39,12 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @ToRoBots
 
-<b><i>🔰 Welcome To TO RᴏBᴏᴛs 🔰
+<i>🔰 Welcome To </i><i><b>TO RᴏBᴏᴛs</b> 🔰
 
 Here All The bots are useful & always we try to improve it. We try hard to make your life easier with Telegram. 
 
-NOTE :- If Any Bot Is Not Working Message At me!<\b><\i>
-"""
+</i><i><b>NOTE :-</b> If Any Bot Is Not Working Message At [Soon].</i>
+ """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
