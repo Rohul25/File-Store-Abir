@@ -39,15 +39,16 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @ToRoBots
 
-<i>🔰 Welcome To </i><i><b>TO RᴏBᴏᴛs</b> 🔰
+**🔰 Welcome To TO RᴏBᴏᴛs 🔰
 
 Here All The bots are useful & always we try to improve it. We try hard to make your life easier with Telegram. 
 
-</i><i><b>NOTE :-</b> If Any Bot Is Not Working Message At [Soon].</i>
+NOTE :-</b> If Any Bot Is Not Working Message At [Soon].**
  """
 	HOME_TEXT = """
 **Hi, [{}](tg://user?id={})\n\nThis is File Store Bot**.
-Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-Created By [TO RᴏBᴏᴛs](https://t.me/ToRobots) With 💗.  
+Send me any file I will give you a permanent Sharable Link. I Support Channel Also! 
+
+**Created By [TO RᴏBᴏᴛs](https://t.me/ToRobots) With 💗.**
 """
