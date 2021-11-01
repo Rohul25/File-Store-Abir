@@ -19,7 +19,7 @@ class Config(object):
 	BANNED_CHAT_IDS = list(set(int(x) for x in os.environ.get("BANNED_CHAT_IDS", "-1001362659779 -1001255795497").split()))
 	OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
 	ABOUT_BOT_TEXT = f"""
-This is Permanent Files Store Bot!
+This is Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
@@ -32,21 +32,21 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @AbirHasan2005
 
-👥 **Support Group:** [Linux Repositories](https://t.me/JAsuran123)
+👥 **Support Group:** [TO RᴏBᴏᴛs](https://t.me/ToRoBots)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/JAsuran123)
+📢 **Updates Channel:** [TO RᴏBᴏᴛs](https://t.me/ToRoBots)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @ToRoBots
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
+<b><i>🔰 Welcome To TO RᴏBᴏᴛs 🔰
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+Here All The bots are useful & always we try to improve it. We try hard to make your life easier with Telegram. 
 
-[Donate Now](https://t.me/JAsruan123) (PayPal)
+NOTE :- If Any Bot Is Not Working Message At me!<\b><\i>
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+Created By [TO RᴏBᴏᴛs](https://t.me/ToRobots) With 💗. 
 """
